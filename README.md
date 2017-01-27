@@ -2,7 +2,7 @@ Xamarin RSS Reader
 ===================
 
 
-Simple Xamarin app that reads feed from [club.globallogic](club.globallogic.com.ar) blog
+Simple Xamarin app that reads feed from [club.globallogic](https://www.globallogic.com/latam/news-and-insights/gl-club/#all) blog
 
 ----------
 
